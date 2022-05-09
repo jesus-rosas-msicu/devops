@@ -12,3 +12,5 @@ git push -u origin main
 #git config --global user.name "alan rodriguez"
 #git config --global user.email  "themexicanceo@gmail.com"
 #git diff - check difference
+#Create a  branch -m testing
+#git branch 
